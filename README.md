@@ -64,21 +64,6 @@ A análise mostrou que a limpeza é uma etapa importante antes da utilização d
 
 Os agrupamentos também ajudaram a encontrar padrões na distribuição dos registros entre gêneros, categorias de produtos e segmentos de clientes.
 
-## Sugestão de versionamento
 
-Os commits podem demonstrar a evolução do projeto:
 
-```bash
-git add .
-git commit -m "feat: adiciona base e estrutura inicial"
-
-git add .
-git commit -m "feat: adiciona verificacao e limpeza dos dados"
-
-git add .
-git commit -m "feat: adiciona estatisticas e agrupamentos"
-
-git add .
-git commit -m "docs: adiciona README e conclusoes"
-```
 Projeto desenvolvido por Luiz Aflalo como atividade avaliativa do Módulo 1 de Análise de Dados com Python.
