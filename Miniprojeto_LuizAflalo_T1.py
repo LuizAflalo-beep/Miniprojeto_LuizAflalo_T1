@@ -109,6 +109,7 @@ df_limpo = df_limpo.drop_duplicates()
 print(f"Duplicatas removidas: {antes_duplicatas - len(df_limpo):,}")
 
 # 4. Estatísticas do número de filhos
+print("Calculando as estatísticas descritivas...")
 print("\n" + "=" * 60)
 print("ESTATÍSTICAS - NÚMERO DE FILHOS")
 print("=" * 60)
