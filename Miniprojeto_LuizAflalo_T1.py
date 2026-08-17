@@ -33,6 +33,7 @@ print("\nPrimeira linha da base:")
 print(primeira_linha)
 
 # 2. Verificação de problemas nos dados
+print("Iniciando verificação de qualidade dos dados...")
 print("\n" + "=" * 60)
 print("VERIFICAÇÃO DOS DADOS")
 print("=" * 60)
