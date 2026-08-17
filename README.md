@@ -81,3 +81,4 @@ git commit -m "feat: adiciona estatisticas e agrupamentos"
 git add .
 git commit -m "docs: adiciona README e conclusoes"
 ```
+Projeto desenvolvido por Luiz Aflalo como atividade avaliativa do Módulo 1 de Análise de Dados com Python.
