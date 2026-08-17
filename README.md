@@ -1,7 +1,7 @@
 # Mini-Projeto Avaliativo — Análise de Dados com Python
 
 **Aluno:** Luiz Aflalo  
-**Turma:** Analise_de_Dados_T1
+**Turma:** Analise_de_Dados_T5
 
 ## Objetivo
 
@@ -17,7 +17,7 @@ O projeto verifica a qualidade dos dados, realiza a limpeza e apresenta estatís
 4. Execute:
 
 ```bash
-python Miniprojeto_LuizAflalo_T1.py
+python Miniprojeto_LuizAflalo_T5.py
 ```
 
 O programa apresenta os resultados no terminal e gera o arquivo `df_limpo.csv`.
