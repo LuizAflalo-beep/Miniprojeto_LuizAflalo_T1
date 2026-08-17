@@ -57,6 +57,7 @@ compras_unicas = df["CO_ID"].nunique()
 print(f"Compras únicas: {compras_unicas:,}")
 
 # 3. Limpeza
+print("Realizando limpeza dos dados...")
 print("\n" + "=" * 60)
 print("LIMPEZA DOS DADOS")
 print("=" * 60)
